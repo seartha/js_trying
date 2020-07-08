@@ -1,1 +1,2 @@
+tea=1;
 assert.isNotNull(tea, 'great, time for tea!');
